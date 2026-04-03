@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Bloody Mary",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2026-04-03T02:52:41.862434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloody Mary Morning (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/01_Bloody_Mary_Morning_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "New Years Day",
+      "has_synced": true,
+      "path": "select/03_Bloody_Mary_New_Years_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Whitesnake",
+      "has_synced": false,
+      "path": "select/04_Bloody_Mary_Whitesnake.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/05_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bloody Mary (Sped Up)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/06_Bloody_Mary_(Sped_Up)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/07_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "KANKAN feat. FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/08_Bloody_Mary_KANKAN_feat._FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "KANKAN",
+      "has_synced": true,
+      "path": "select/09_Bloody_Mary_KANKAN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bloody Mary (Nerve Endings)",
+      "artist": "Silversun Pickups",
+      "has_synced": false,
+      "path": "select/10_Bloody_Mary_(Nerve_Endings)_Silversun_Pickups.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/12_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Tom & Dick",
+      "has_synced": false,
+      "path": "select/13_Bloody_Mary_Tom_&_Dick.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bloody Mary (Nerve Endings)",
+      "artist": "Silversun Pickups",
+      "has_synced": true,
+      "path": "select/14_Bloody_Mary_(Nerve_Endings)_Silversun_Pickups.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lizzy Borden",
+      "has_synced": false,
+      "path": "select/15_Bloody_Mary_Lizzy_Borden.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "KANKAN, FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/16_Bloody_Mary_KANKAN,_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bloody Mary Morning",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/17_Bloody_Mary_Morning_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "08 Bloody Mary Morning",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/18_08_Bloody_Mary_Morning_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bloody Ripper",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/19_Bloody_Ripper_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Bloody Ripper",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/20_Bloody_Ripper_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Bloody Margielas",
+      "artist": "MISOGI",
+      "has_synced": false,
+      "path": "select/21_Bloody_Margielas_MISOGI.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Act III: The Bloody Verdict of Verden",
+      "artist": "Christopher Lee",
+      "has_synced": true,
+      "path": "select/22_Act_III__The_Bloody_Verdict_of_Verden_Christopher_Lee.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Live Good - The Bloody Beetroots Remix",
+      "artist": "Naive New Beaters",
+      "has_synced": false,
+      "path": "select/23_Live_Good_-_The_Bloody_Beetroots_Remix_Naive_New_Beaters.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Bloody Red Dungeons",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/24_Bloody_Red_Dungeons_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Tattered Banners And Bloody Flags",
+      "artist": "Amon Amarth",
+      "has_synced": false,
+      "path": "select/25_Tattered_Banners_And_Bloody_Flags_Amon_Amarth.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Bloody Waters",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/26_Bloody_Waters_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Bloody Waters (feat. Thundercat)",
+      "artist": "H.E.R.",
+      "has_synced": true,
+      "path": "select/27_Bloody_Waters_(feat._Thundercat)_H.E.R..lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Bloody! (Bagonia's)",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": false,
+      "path": "select/28_Bloody!_(Bagonia's)_Ariel_Pink's_Haunted_Graffiti.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I Love The Bloody Beetroots",
+      "artist": "The Bloody Beetroots",
+      "has_synced": false,
+      "path": "select/29_I_Love_The_Bloody_Beetroots_The_Bloody_Beetroots.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Bloody Twins",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/30_Bloody_Twins_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Mystery Meat (The Bloody Beetroots Remix)",
+      "artist": "All Leather",
+      "has_synced": false,
+      "path": "select/31_Mystery_Meat_(The_Bloody_Beetroots_Remix)_All_Leather.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Ratchet (feat. Bloody Jay)",
+      "artist": "Brodinski",
+      "has_synced": false,
+      "path": "select/32_Ratchet_(feat._Bloody_Jay)_Brodinski.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bloody Mary",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_Bloody_Mary_FAKE_TYPE..txt"
+    }
+  ]
+}
